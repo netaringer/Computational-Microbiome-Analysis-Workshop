@@ -1,0 +1,2 @@
+quantile,threshold,avg_aupr,std_aupr
+"[0.2, 0.4, 0.6, 0.8]",0.7,0.2411127146897898,0.0
